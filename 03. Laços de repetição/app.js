@@ -1,3 +1,5 @@
+//AVISO: ELIMINAR A CADEIA DE COMENTÁRIO DE CADA QUESTÃO SE QUISER RODAR CADA CÓDIGO.
+
 //01. Escreva um código que utilize o loop for/of para iterar e imprimir cada elemento de um array.
 
 /*
