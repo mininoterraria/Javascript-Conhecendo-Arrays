@@ -78,6 +78,7 @@ for(let i = 0; i < numeros.length; i++){
 
 //06. Crie um programa que calcule a média dos números presentes em um array utilizando um loop for.
 
+/*
 const numeros = [3, 8, 12, 5, 6, 10, 7, 2, 9, 14];
 let somaNumeros = 0;
 
@@ -88,5 +89,5 @@ for(let i = 0; i < numeros.length; i++){
 const media = somaNumeros / numeros.length;
 
 console.log(media.toFixed(2));
-
+*/
 
