@@ -96,16 +96,10 @@ for (let i = 0; i <= 2; i++){
         }
     }
 }
+    //Acesse e imprima o elemento na segunda linha e terceira coluna da lista bidimensional matriz criada no exercício anterior.
+console.log(matriz[1][2])
 
-console.log(matriz);
+    //Adicione um novo elemento (por exemplo,15) na terceira linha e segunda coluna da lista bidimensional matriz criada anteriormente.
+    matriz[2][1].push(15);
 ```
-11. Acesse e imprima o elemento na segunda linha e terceira coluna da lista bidimensional matriz criada no exercício anterior.
-```js
-//console.log(matriz[1][2]);
-```
-12. Adicione um novo elemento (por exemplo,15) na terceira linha e segunda coluna da lista bidimensional matriz criada anteriormente.
 
-```js
-matriz[2][1].push(15);
-console.log(matriz[2]);
-```
